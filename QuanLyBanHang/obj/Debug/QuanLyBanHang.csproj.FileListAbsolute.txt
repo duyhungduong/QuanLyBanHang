@@ -1,0 +1,53 @@
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 6\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang2.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form3.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHangTheoThanhPho.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoKhachHang.resources
+D:\ThuchanhCsharp\BaitapthuchanhSV\Chuong 7\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTacGia.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoKhachHang.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHangTheoThanhPho.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTacGia.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form3.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
