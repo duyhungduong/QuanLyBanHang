@@ -74,6 +74,7 @@ namespace QuanLyBanHang
                 //Loi khong hien HoaDon
                 // Copy HoaDonVOiKhachHang sang 3 doan, Bat dau
                 //Vận chuyển dữ liệu lên DataTable dtHoaDon
+
                 daNhanVien = new SqlDataAdapter("SELECT MaNV, (Ho + ' ' + Ten) AS HoTen FROM NhanVien", conn);
                 dtNhanVien = new DataTable();
                 dtNhanVien.Clear();
@@ -287,15 +288,33 @@ namespace QuanLyBanHang
                     int r = dgvHoaDon.CurrentCell.RowIndex;
                     //MaKH hiện hành
                     string strMAHD = dgvHoaDon.Rows[r].Cells[0].Value.ToString();
-                    //Câu lệnh SQL
-                    cmd.CommandText = System.String.Concat("Update HoaDon Set MaHD='"+
-                        this.txtMaHD.Text.ToString() + "', MaKH ='" + 
-                        this.cbMaKH.SelectedValue.ToString() + "', MaNV ='" + this.cbMaNV.SelectedValue.ToString() 
-                        + "', NgayLapHD ='" + this.txtNgayLapHD.Text.ToString() + "', MaKH ='" + this.txtNgayNhanHang.Text.ToString() + 
-                        "' where MaHD ='" + strMAHD + "'");
-                    //Cập nhật
-                    cmd.CommandType = CommandType.Text;
+
+                    ////Câu lệnh SQL
+                    //cmd.CommandText = System.String.Concat("Update HoaDon Set MaHD='"+
+                    //    this.txtMaHD.Text.ToString() + "', MaKH ='" + 
+                    //    this.cbMaKH.SelectedValue.ToString() + "', MaNV ='" + this.cbMaNV.SelectedValue.ToString() 
+                    //    + "', NgayLapHD ='" + this.txtNgayLapHD.Text.ToString() + "', MaKH ='" + this.txtNgayNhanHang.Text.ToString() + 
+                    //    "' where MaHD ='" + strMAHD + "'");
+                    ////Cập nhật
+                    //cmd.CommandType = CommandType.Text;
+                    //cmd.ExecuteNonQuery();
+                    // Câu lệnh Update với tham số
+
+                    cmd.CommandText = "UPDATE HoaDon SET MaKH = @MaKH, MaNV = @MaNV, " +
+                                      "NgayLapHD = @NgayLapHD, NgayNhanHang = @NgayNhanHang " +
+                                      "WHERE MaHD = @OldMaHD";
+
+                    // Thêm tham số để tránh SQL Injection
+                    cmd.Parameters.AddWithValue("@MaKH", this.cbMaKH.SelectedValue);
+                    cmd.Parameters.AddWithValue("@MaNV", this.cbMaNV.SelectedValue);
+                    cmd.Parameters.AddWithValue("@NgayLapHD", this.txtNgayLapHD.Text);
+                    cmd.Parameters.AddWithValue("@NgayNhanHang", this.txtNgayNhanHang.Text);
+                    cmd.Parameters.AddWithValue("@OldMaHD", strMAHD);
+
+                    // Thực hiện câu lệnh
                     cmd.ExecuteNonQuery();
+
+
                     //Load lại dữ liệu lên trên DataGridView
                     LoadData();
                     //Thông báo

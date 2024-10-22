@@ -107,8 +107,16 @@ namespace QuanLyBanHang
                 int r = dgvTHANHPHO.CurrentCell.RowIndex;
                 //Lấy MaTP của record hiện hành
                 string strTHANHPHO = dgvTHANHPHO.Rows[r].Cells[0].Value.ToString();
-                //Viết câu lệnh SQL
-                cmd.CommandText = System.String.Concat("Delete from ThanhPho where ThanhPho ='" + strTHANHPHO + "'");
+
+
+                ////Viết câu lệnh SQL
+                //cmd.CommandText = System.String.Concat("Delete from ThanhPho where ThanhPho ='" + strTHANHPHO + "'");
+
+                // Viết câu lệnh SQL Sua loi khong the xoa Thanh Pho Thanh Cong
+                cmd.CommandText = "DELETE FROM ThanhPho WHERE ThanhPho = @MaTP";
+                cmd.Parameters.AddWithValue("@MaTP", strTHANHPHO);
+
+
                 //cmd.CommandType = CommandType.Text;
                 //Thực hiện câu lệnh SQL
                 cmd.ExecuteNonQuery();
@@ -118,9 +126,22 @@ namespace QuanLyBanHang
                 MessageBox.Show("Đã xóa xong!");
 
             }
-            catch(SqlException){
-                MessageBox.Show("Không xóa được. Lỗi rồi!!!");
+            //catch(SqlException){
+            //    MessageBox.Show("Không xóa được. Lỗi rồi!!!");
+            //}
+            catch (SqlException ex)
+            {
+                // Kiểm tra lỗi xung đột khóa ngoại
+                if (ex.Number == 547) // Mã lỗi SQL Server khi vi phạm khóa ngoại
+                {
+                    MessageBox.Show("Không thể xóa thành phố này vì có ràng buộc với dữ liệu khác (khách hàng)!");
+                }
+                else
+                {
+                    MessageBox.Show("Có lỗi: " + ex.Message);
+                }
             }
+
             //Đóng kết nối
             conn.Close();
         }

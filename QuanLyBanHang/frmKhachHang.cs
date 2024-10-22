@@ -270,12 +270,14 @@ namespace QuanLyBanHang
                     string strMAKH = dgvKhachHang.Rows[r].Cells[0].Value.ToString();
                     //Câu lệnh SQL
 
+
                     // Sua loi upload Tieng Viet trong form Khach Hang
                     cmd.CommandText = System.String.Concat("Update KhachHang Set TenCty=N'" +
                         this.txtTenCty.Text.ToString() + "', Diachi =N'" +
                         this.txtDiachi.Text.ToString() + "', ThanhPho ='" + this.cbThanhPho.SelectedValue.ToString()
                         + "', DienThoai ='" + this.txtDienthoai.Text.ToString() + "', MaKH ='" + this.txtMaKH.Text.ToString() +
                         "' where MaKH ='" + strMAKH + "'");
+
 
                     //Cập nhật
                     cmd.CommandType = CommandType.Text;
