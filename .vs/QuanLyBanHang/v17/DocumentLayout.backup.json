@@ -3,7 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\admin\\onedrive - ctu.edu.vn\\documents\\ct243\\thuc hanh kiem thu pm thu cong cho sv\\quanlybanhang\\quanlybanhang\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\admin\\onedrive - ctu.edu.vn\\documents\\ct243\\thuc hanh kiem thu pm thu cong cho sv\\quanlybanhang\\quanlybanhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\frmthanhpho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmthanhpho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,22 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\frmthanhpho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmthanhpho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\frmtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmtacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,60 +82,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmHoaDon.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDon.cs",
-              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDon.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDon.cs",
-              "RelativeToolTip": "QuanLyBanHang\\frmHoaDon.cs",
-              "ViewState": "AgIAAAYBAAAAAAAAAAAcwDgBAAAAAAAAAAAAAA==",
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form2.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Form2.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form2.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Form2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T09:16:04.036Z",
+              "WhenOpened": "2024-10-07T09:13:00.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form1.cs",
-              "RelativeDocumentMoniker": "QuanLyBanHang\\Form1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form1.cs",
-              "RelativeToolTip": "QuanLyBanHang\\Form1.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAuwBUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T09:10:14.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "frmThanhPho.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmThanhPho.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\frmThanhPho.cs",
               "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmThanhPho.cs",
               "RelativeToolTip": "QuanLyBanHang\\frmThanhPho.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAmwGgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwv10AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T09:18:36.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDon.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDon.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmHoaDon.cs",
+              "ViewState": "AgIAADwBAAAAAAAAAAAcwDgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:16:04.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form1.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:10:14.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "frmKhachHang.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmKhachHang.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\frmKhachHang.cs",
               "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmKhachHang.cs",
               "RelativeToolTip": "QuanLyBanHang\\frmKhachHang.cs",
-              "ViewState": "AgIAAP0AAAAAAAAAAAAcwBUBAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUBAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T09:17:35.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form3.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\Form3.cs",
@@ -147,19 +163,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "frmHoaDon.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDon.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDon.cs",
               "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDon.cs [Design]",
               "RelativeToolTip": "QuanLyBanHang\\frmHoaDon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T00:18:36.969Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-14T00:18:36.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "frmHoaDonTheoKhachHang.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
@@ -170,7 +185,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Form1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:10:11.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "frmHoaDonTheoKhachHang.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
@@ -181,12 +207,8 @@
               "WhenOpened": "2024-10-07T09:17:09.694Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form3.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\Form3.cs",
@@ -197,19 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form2.cs",
-              "RelativeDocumentMoniker": "QuanLyBanHang\\Form2.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form2.cs",
-              "RelativeToolTip": "QuanLyBanHang\\Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T09:13:00.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "frmKhachHangTheoThanhPho.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmKhachHangTheoThanhPho.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\frmKhachHangTheoThanhPho.cs",
@@ -221,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\Form1.Designer.cs",
@@ -233,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form2.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\Form2.cs",
@@ -244,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "frmNhanVien.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmNhanVien.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\frmNhanVien.cs",
@@ -256,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Program.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\Program.cs",
@@ -268,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "frmSanPham.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmSanPham.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\frmSanPham.cs",
@@ -280,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "frmTacGia.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\frmTacGia.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\frmTacGia.cs",
@@ -289,17 +299,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T09:18:33.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form1.cs",
-              "RelativeDocumentMoniker": "QuanLyBanHang\\Form1.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - ctu.edu.vn\\Documents\\CT243\\Thuc hanh kiem thu PM thu cong cho SV\\QuanLyBanHang\\QuanLyBanHang\\Form1.cs [Design]",
-              "RelativeToolTip": "QuanLyBanHang\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T09:10:11.044Z"
             }
           ]
         }
