@@ -51,3 +51,4 @@ C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu c
 C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
 C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoNhanVien.resources

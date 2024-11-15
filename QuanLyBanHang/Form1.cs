@@ -111,5 +111,35 @@ namespace QuanLyBanHang
             Form frm = new frmTacGia();
             frm.ShowDialog();
         }
+
+        private void hóaĐơnTheoNhânViênToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frm = new frmHoaDonTheoNhanVien();
+            frm.ShowDialog();
+        }
+
+        private void chiTiếtHóaĐơnTheoHóaĐơnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frm = new frmHoaDonTheoHoaDon();
+            frm.ShowDialog();
+        }
+
+        private void danhMụcChiTiếtHóaĐơnToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Form frm = new frmChiTietHoaDon();
+            frm.ShowDialog();
+        }
+
+        private void hóaĐơnTheoSảnPhẩmToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frm = new frmHoaDonTheoSanPham();
+            frm.ShowDialog();
+        }
+
+        private void danhMụcSảnPhẩmToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Form frm = new frmDanhMucSanPham();
+            frm.ShowDialog();
+        }
     }
 }

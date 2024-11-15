@@ -19,7 +19,7 @@ namespace QuanLyBanHang
 
         private void btnDangnhap_Click(object sender, EventArgs e)
         {
-            if (this.txtUser.Text == "teonv" && this.txtPass.Text == "123")
+            if (this.txtUser.Text == "t" && this.txtPass.Text == "1")
             {
                 this.Close();
             }    
