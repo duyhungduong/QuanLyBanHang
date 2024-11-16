@@ -29,6 +29,12 @@
         private void InitializeComponent()
         {
             this.dgvHoaDon = new System.Windows.Forms.DataGridView();
+            this.MaHD = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TenSP = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MaKH = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MaNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NgayLapHD = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NgayNhanHang = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnThoat = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.txtTongSoHD = new System.Windows.Forms.TextBox();
@@ -36,12 +42,7 @@
             this.cbMaSP = new System.Windows.Forms.ComboBox();
             this.btnOK = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
-            this.MaHD = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.TenSP = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.MaKH = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.MaNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.NgayLapHD = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.NgayNhanHang = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.buttonReload = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvHoaDon)).BeginInit();
             this.pnlThongTinKH.SuspendLayout();
             this.SuspendLayout();
@@ -64,78 +65,6 @@
             this.dgvHoaDon.RowTemplate.Resizable = System.Windows.Forms.DataGridViewTriState.True;
             this.dgvHoaDon.Size = new System.Drawing.Size(955, 250);
             this.dgvHoaDon.TabIndex = 16;
-            // 
-            // btnThoat
-            // 
-            this.btnThoat.Location = new System.Drawing.Point(868, 329);
-            this.btnThoat.Margin = new System.Windows.Forms.Padding(4);
-            this.btnThoat.Name = "btnThoat";
-            this.btnThoat.Size = new System.Drawing.Size(100, 28);
-            this.btnThoat.TabIndex = 15;
-            this.btnThoat.Text = "Trở về";
-            this.btnThoat.UseVisualStyleBackColor = true;
-            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(728, 11);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(82, 16);
-            this.label5.TabIndex = 13;
-            this.label5.Text = "Tổng số HĐ:";
-            // 
-            // txtTongSoHD
-            // 
-            this.txtTongSoHD.Location = new System.Drawing.Point(821, 7);
-            this.txtTongSoHD.Margin = new System.Windows.Forms.Padding(4);
-            this.txtTongSoHD.Name = "txtTongSoHD";
-            this.txtTongSoHD.Size = new System.Drawing.Size(109, 22);
-            this.txtTongSoHD.TabIndex = 7;
-            // 
-            // pnlThongTinKH
-            // 
-            this.pnlThongTinKH.Controls.Add(this.cbMaSP);
-            this.pnlThongTinKH.Controls.Add(this.btnOK);
-            this.pnlThongTinKH.Controls.Add(this.label4);
-            this.pnlThongTinKH.Controls.Add(this.label5);
-            this.pnlThongTinKH.Controls.Add(this.txtTongSoHD);
-            this.pnlThongTinKH.Location = new System.Drawing.Point(13, 13);
-            this.pnlThongTinKH.Margin = new System.Windows.Forms.Padding(4);
-            this.pnlThongTinKH.Name = "pnlThongTinKH";
-            this.pnlThongTinKH.Size = new System.Drawing.Size(955, 36);
-            this.pnlThongTinKH.TabIndex = 17;
-            // 
-            // cbMaSP
-            // 
-            this.cbMaSP.FormattingEnabled = true;
-            this.cbMaSP.Location = new System.Drawing.Point(164, 6);
-            this.cbMaSP.Margin = new System.Windows.Forms.Padding(4);
-            this.cbMaSP.Name = "cbMaSP";
-            this.cbMaSP.Size = new System.Drawing.Size(402, 24);
-            this.cbMaSP.TabIndex = 20;
-            // 
-            // btnOK
-            // 
-            this.btnOK.Location = new System.Drawing.Point(574, 5);
-            this.btnOK.Margin = new System.Windows.Forms.Padding(4);
-            this.btnOK.Name = "btnOK";
-            this.btnOK.Size = new System.Drawing.Size(71, 28);
-            this.btnOK.TabIndex = 19;
-            this.btnOK.Text = "OK";
-            this.btnOK.UseVisualStyleBackColor = true;
-            this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(49, 10);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(105, 16);
-            this.label4.TabIndex = 18;
-            this.label4.Text = "Chọn Sản phẩm:";
             // 
             // MaHD
             // 
@@ -181,6 +110,90 @@
             this.NgayNhanHang.MinimumWidth = 8;
             this.NgayNhanHang.Name = "NgayNhanHang";
             // 
+            // btnThoat
+            // 
+            this.btnThoat.Location = new System.Drawing.Point(868, 329);
+            this.btnThoat.Margin = new System.Windows.Forms.Padding(4);
+            this.btnThoat.Name = "btnThoat";
+            this.btnThoat.Size = new System.Drawing.Size(100, 28);
+            this.btnThoat.TabIndex = 15;
+            this.btnThoat.Text = "Trở về";
+            this.btnThoat.UseVisualStyleBackColor = true;
+            this.btnThoat.Click += new System.EventHandler(this.btnThoat_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(747, 11);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(82, 16);
+            this.label5.TabIndex = 13;
+            this.label5.Text = "Tổng số HĐ:";
+            // 
+            // txtTongSoHD
+            // 
+            this.txtTongSoHD.Location = new System.Drawing.Point(838, 7);
+            this.txtTongSoHD.Margin = new System.Windows.Forms.Padding(4);
+            this.txtTongSoHD.Name = "txtTongSoHD";
+            this.txtTongSoHD.Size = new System.Drawing.Size(109, 22);
+            this.txtTongSoHD.TabIndex = 7;
+            // 
+            // pnlThongTinKH
+            // 
+            this.pnlThongTinKH.Controls.Add(this.buttonReload);
+            this.pnlThongTinKH.Controls.Add(this.cbMaSP);
+            this.pnlThongTinKH.Controls.Add(this.btnOK);
+            this.pnlThongTinKH.Controls.Add(this.label4);
+            this.pnlThongTinKH.Controls.Add(this.label5);
+            this.pnlThongTinKH.Controls.Add(this.txtTongSoHD);
+            this.pnlThongTinKH.Location = new System.Drawing.Point(13, 13);
+            this.pnlThongTinKH.Margin = new System.Windows.Forms.Padding(4);
+            this.pnlThongTinKH.Name = "pnlThongTinKH";
+            this.pnlThongTinKH.Size = new System.Drawing.Size(955, 36);
+            this.pnlThongTinKH.TabIndex = 17;
+            // 
+            // cbMaSP
+            // 
+            this.cbMaSP.FormattingEnabled = true;
+            this.cbMaSP.Location = new System.Drawing.Point(126, 6);
+            this.cbMaSP.Margin = new System.Windows.Forms.Padding(4);
+            this.cbMaSP.Name = "cbMaSP";
+            this.cbMaSP.Size = new System.Drawing.Size(402, 24);
+            this.cbMaSP.TabIndex = 20;
+            // 
+            // btnOK
+            // 
+            this.btnOK.Location = new System.Drawing.Point(536, 5);
+            this.btnOK.Margin = new System.Windows.Forms.Padding(4);
+            this.btnOK.Name = "btnOK";
+            this.btnOK.Size = new System.Drawing.Size(71, 28);
+            this.btnOK.TabIndex = 19;
+            this.btnOK.Text = "OK";
+            this.btnOK.UseVisualStyleBackColor = true;
+            this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(11, 10);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(105, 16);
+            this.label4.TabIndex = 18;
+            this.label4.Text = "Chọn Sản phẩm:";
+            // 
+            // buttonReload
+            // 
+            this.buttonReload.Location = new System.Drawing.Point(615, 5);
+            this.buttonReload.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonReload.Name = "buttonReload";
+            this.buttonReload.Size = new System.Drawing.Size(71, 28);
+            this.buttonReload.TabIndex = 22;
+            this.buttonReload.Text = "Reload";
+            this.buttonReload.UseVisualStyleBackColor = true;
+            this.buttonReload.Click += new System.EventHandler(this.buttonReload_Click);
+            // 
             // frmHoaDonTheoSanPham
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -216,5 +229,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn MaNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn NgayLapHD;
         private System.Windows.Forms.DataGridViewTextBoxColumn NgayNhanHang;
+        private System.Windows.Forms.Button buttonReload;
     }
 }

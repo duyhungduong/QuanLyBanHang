@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\subjects\\majorsubjects\\ct244_btpm\\project 2\\quanlybanhang\\quanlybanhang\\frmhoadontheosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadontheosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\subjects\\majorsubjects\\ct244_btpm\\project 2\\quanlybanhang\\quanlybanhang\\frmhoadontheohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadontheohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\quanlybanhang\\frmhoadontheosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadontheosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\quanlybanhang\\frmhoadontheokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadontheokhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\subjects\\majorsubjects\\ct244_btpm\\project 2\\quanlybanhang\\quanlybanhang\\frmhoadontheosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadontheosanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\quanlybanhang\\frmhoadontheonhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadontheonhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\subjects\\majorsubjects\\ct244_btpm\\project 2\\quanlybanhang\\quanlybanhang\\frmhoadontheohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50DAC9E6-11C8-4E75-8C76-195EC459F5A8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\frmhoadontheohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,37 +31,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frmHoaDonTheoKhachHang.cs",
-              "DocumentMoniker": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
-              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
-              "ToolTip": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
-              "RelativeToolTip": "QuanLyBanHang\\frmHoaDonTheoKhachHang.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwEwAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:53:01.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmHoaDonTheoNhanVien.cs",
-              "DocumentMoniker": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoNhanVien.cs",
-              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoNhanVien.cs",
-              "ToolTip": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoNhanVien.cs",
-              "RelativeToolTip": "QuanLyBanHang\\frmHoaDonTheoNhanVien.cs",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAkwCYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T07:34:09.228Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "frmHoaDonTheoSanPham.cs [Design]",
               "DocumentMoniker": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoSanPham.cs",
               "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoSanPham.cs",
               "ToolTip": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoSanPham.cs [Design]",
               "RelativeToolTip": "QuanLyBanHang\\frmHoaDonTheoSanPham.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T07:33:43.36Z",
+              "WhenOpened": "2024-11-16T15:42:31.239Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -72,9 +48,35 @@
               "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoSanPham.cs",
               "ToolTip": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoSanPham.cs",
               "RelativeToolTip": "QuanLyBanHang\\frmHoaDonTheoSanPham.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAIwJ8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:49:54.525Z"
+              "WhenOpened": "2024-11-16T08:49:54.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHoaDonTheoHoaDon.cs",
+              "DocumentMoniker": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoHoaDon.cs",
+              "ToolTip": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoHoaDon.cs",
+              "RelativeToolTip": "QuanLyBanHang\\frmHoaDonTheoHoaDon.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAA9wIEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:44:01.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmHoaDonTheoHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\frmHoaDonTheoHoaDon.cs",
+              "ToolTip": "D:\\Subjects\\MajorSubjects\\CT244_BTPM\\Project 2\\QuanLyBanHang\\QuanLyBanHang\\frmHoaDonTheoHoaDon.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\frmHoaDonTheoHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:42:10.407Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

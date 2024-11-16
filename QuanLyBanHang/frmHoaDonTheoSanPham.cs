@@ -55,6 +55,11 @@ namespace QuanLyBanHang
 
                 //Xóa các đối tượng trong Panel
                 //Đưa dữ liệu lên ComboBox
+                DataRow newRow = dtSanPham.NewRow();
+                newRow["MaSP"] = DBNull.Value;  // Giá trị NULL hoặc giá trị đặc biệt cho "Chọn hóa đơn"
+                newRow["TenSP"] = "Chọn sản phẩm";  // Cột hiển thị
+                dtSanPham.Rows.InsertAt(newRow, 0); // Thêm vào vị trí đầu tiên
+
                 this.cbMaSP.DataSource = dtSanPham;
                 this.cbMaSP.DisplayMember = "TenSP";
                 this.cbMaSP.ValueMember = "MaSP";
@@ -83,11 +88,17 @@ namespace QuanLyBanHang
             }
         }
 
-
-        private void LoadDataByCustomer()
+        private void LoadDataByProduct()
         {
             try
             {
+                // Chọn sản phẩm không hợp lệ
+                if (cbMaSP.SelectedValue == null || cbMaSP.SelectedValue == DBNull.Value)
+                {
+                    MessageBox.Show("Vui lòng chọn một sản phẩm hợp lệ!");
+                    return;
+                }
+
                 //Khởi động kết nối
                 conn = new SqlConnection(strConnectionString);
 
@@ -135,7 +146,28 @@ namespace QuanLyBanHang
 
         private void btnOK_Click(object sender, EventArgs e)
         {
-            LoadDataByCustomer();
+            LoadDataByProduct();
+        }
+
+        private void buttonReload_Click(object sender, EventArgs e)
+        {
+            // Đặt combobox về mặc định
+            this.cbMaSP.SelectedIndex = 0;
+
+            //Vận chuyển dữ liệu lên DataTable dtHoaDon
+            daHoaDon = new SqlDataAdapter("SELECT HoaDon.MaHD, SanPham.TenSP, Khachhang.TenCty AS MaKH, (NhanVien.Ho + ' ' + NhanVien.Ten) AS MaNV, HoaDon.NgayLapHD, HoaDon.NgayNhanHang FROM HoaDon JOIN ChiTietHoaDon ON HoaDon.MaHD = ChiTietHoaDon.MaHD JOIN SanPham ON ChiTietHoaDon.MaSP = SanPham.MaSP JOIN NhanVien ON HoaDon.MaNV = NhanVien.MaNV JOIN Khachhang ON HoaDon.MaKH = Khachhang.MaKH", conn);
+            dtHoaDon = new DataTable();
+            dtHoaDon.Clear();
+            daHoaDon.Fill(dtHoaDon);
+
+            //Đưa dữ liệu lên DataGridView
+            this.dgvHoaDon.DataSource = dtHoaDon;
+            //Thay đổi độ rộng cột
+            dgvHoaDon.AutoResizeColumns();
+
+            //Đếm số dòng trong datatable daHoaDon
+            int soHD = Convert.ToInt32(dtHoaDon.Compute("COUNT(MAHD)", string.Empty));
+            this.txtTongSoHD.Text = soHD.ToString();
         }
     }
 }
