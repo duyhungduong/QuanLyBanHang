@@ -52,3 +52,25 @@ C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu c
 C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
 C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
 C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoNhanVien.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoKhachHang.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoNhanVien.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHangTheoThanhPho.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTacGia.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form3.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoSanPham.resources
