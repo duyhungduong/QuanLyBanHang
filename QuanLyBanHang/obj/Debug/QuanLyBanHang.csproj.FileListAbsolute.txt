@@ -75,3 +75,4 @@ D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\D
 D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
 D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoSanPham.resources
 D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoHoaDon.resources
+D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDanhMucSanPham.resources
