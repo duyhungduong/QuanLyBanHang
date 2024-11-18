@@ -76,3 +76,27 @@ D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\D
 D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoSanPham.resources
 D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoHoaDon.resources
 D:\Subjects\MajorSubjects\CT244_BTPM\Project 2\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDanhMucSanPham.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form1.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form2.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDanhMucSanPham.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDon.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoHoaDon.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoKhachHang.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoNhanVien.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHoaDonTheoSanPham.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHangTheoThanhPho.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmTacGia.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThanhPho.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Form3.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmSanPham.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\ADMIN\OneDrive - ctu.edu.vn\Documents\CT243\Thuc hanh kiem thu PM thu cong cho SV\Project 2\duyhungduong\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb

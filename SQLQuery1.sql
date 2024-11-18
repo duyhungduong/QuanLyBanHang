@@ -260,3 +260,28 @@ GO
 ALTER TABLE [dbo].[ChiTietHoaDon]  WITH CHECK ADD FOREIGN KEY([MaSP])
 REFERENCES [dbo].[SanPham] ([MaSP])
 GO
+
+-- Create the TaiKhoan table
+CREATE TABLE [dbo].[TaiKhoan] (
+    - Primary key for TaiKhoan
+      NOT NULL, -- Usern  -- Password field
+      NOT NULRole
+PRIMARY KEY CLUSTERED (
+    [MaTNDEX = OFF, 
+    STATISTICS_NORECOMPUTE = OFF, 
+    IGNORE_DUP_KEY = OFF, 
+    ALLOW_ROW_LOCKS = ON, 
+    ALLOW_PAGE_LOCKS = ON
+) ON [PRIMARY]
+) ON [PRIMARY];
+GO
+
+-- Insert sample data into TaiKhoan
+INSERT INTO [dbo].[TaiKhoan] ([MaTK], [TenDangNhap], [MatKhau], [QuyenHan]) 
+VALUES 
+(N'0001', N'teonv', N'123', N'Admin'),
+(N'0002', N'truongtoan', N'123', N'User'),
+(N'0003', N'thienthanh', N'123', N'Manager'),
+(N'0004', N'duyhung', N'123', N'User');
+GO
+
